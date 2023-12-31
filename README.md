@@ -2,7 +2,6 @@
 
 **Description:**  
 
-  Description:
 
 The Real Estate Price Predictor project is designed to predict housing prices based on various features such as the number of rooms (RM), the proportion of residential land zoned for large lots (ZN), and the percentage of lower status of the population (LSTAT). The project utilizes machine learning techniques, specifically employing the Random Forest Regressor model, to analyze historical housing data and make accurate predictions on real estate prices.
 
